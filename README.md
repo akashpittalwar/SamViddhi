@@ -4,8 +4,13 @@ There are two files :
 2. TA.pdf : PDF of the execution
 
 Conclusion
-Successfully performed EDA using tools like pandas, numpy, and matplotlib by handling redundant data.
-Successfully Implemented multiclass classification algorithm such as Random Forests Regression.
-Successfully optimized hyperparameters using cross-validation.
-Successfully Evaluated the trained model on the testing set using metrics such as accuracy, precision,recall, and F1-score.
-Finally, the model is saved in the local drive for future evaluation by file name : ['random_forest_model.pkl']
+
+1. Successfully performed EDA using tools like pandas, numpy, and matplotlib by handling redundant data.
+
+2. Successfully Implemented multiclass classification algorithm such as Random Forests Regression.
+
+3. Successfully optimized hyperparameters using cross-validation.
+
+4. Successfully Evaluated the trained model on the testing set using metrics such as accuracy, precision,recall, and F1-score.
+
+5. Finally, the model is saved in the local drive for future evaluation by file name : ['random_forest_model.pkl']
