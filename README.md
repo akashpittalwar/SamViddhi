@@ -1,4 +1,5 @@
 # SamViddhi Task 1 : Teaching Assistant Evaluation
+Performed Data Analysis and Created a Random forest Classifier ML model
 There are two files :
 1. Teaching Assistant Model.ipynb : python code for model
 2. TA.pdf : PDF of the execution
